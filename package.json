@@ -1,0 +1,7 @@
+{
+  "name": "nodeLearn",
+  "devDependencies": {},
+  "dependencies": {
+    "learnyounode": "^2.5.0"
+  }
+}

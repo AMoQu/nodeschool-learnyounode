@@ -4,8 +4,8 @@ This project is a personal solutions for workshopper learnyounode by http://node
 ## REQUERIMENTS
 ### Install Node npm
 sudo apt-get install nodejs npm
-### Install learnyounode
-npm install -g learnyounode
+### Install dependencies (learnyounode)
+npm install
 
 ## TEST AND DOC
-learnyounode
+node node_modules/learnyounode/learnyounode.js
